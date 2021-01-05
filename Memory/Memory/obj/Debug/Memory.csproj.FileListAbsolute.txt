@@ -1,0 +1,10 @@
+C:\Users\Sergey\source\repos\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\Sergey\source\repos\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\Sergey\source\repos\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\Sergey\source\repos\Memory\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\Memory\Memory\obj\Debug\Memory.Form1.resources
+C:\Users\Sergey\source\repos\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\Users\Sergey\source\repos\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+C:\Users\Sergey\source\repos\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\Sergey\source\repos\Memory\Memory\obj\Debug\Memory.pdb
+C:\Users\Sergey\source\repos\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
